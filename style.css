@@ -1,0 +1,13 @@
+body {margin:0;font-family:Arial;background:#f7f7f7;color:#222;transition:0.3s;}
+.dark {background:#1a1a1a;color:#eee;}
+header{text-align:center;padding:40px 20px;background:#2d2d2d;color:#fff;}
+.avatar{width:120px;border-radius:50%;margin-bottom:10px;}
+.links a{color:#00c8ff;margin:0 10px;text-decoration:none;}
+section{background:#fff;padding:30px;margin:20px auto;width:85%;max-width:900px;border-radius:10px;}
+.dark section{background:#333;}
+h2{border-left:6px solid #00c8ff;padding-left:10px;}
+.skills{display:flex;flex-wrap:wrap;gap:10px;}
+.skills li{background:#00c8ff;padding:8px 12px;border-radius:5px;color:#fff;list-style:none;}
+.project a{color:#0077cc;}
+.dark-btn{position:fixed;right:20px;top:20px;padding:10px;border:none;border-radius:8px;cursor:pointer;}
+footer{text-align:center;padding:20px;margin-top:30px;background:#2d2d2d;color:#fff;}
